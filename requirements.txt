@@ -1,0 +1,13 @@
+contractions==0.1.73
+emoji==2.15.0
+kagglehub==0.3.13
+matplotlib==3.10.7
+nltk==3.9.2
+numpy==2.3.3
+pandas==2.3.3
+scikit_learn==1.7.2
+tensorflow==2.20.0
+torch==2.8.0
+tqdm==4.67.1
+transformers==4.57.0
+vaderSentiment==3.3.2
