@@ -60,7 +60,7 @@ pip install kagglehub tqdm
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/maybeitsai/sentiment-analysis-hatred-speech.git
+git clone https://github.com/harrymardika/sentiment-analysis-hatred-speech.git
 cd sentiment-analysis-hatred-speech
 ```
 
@@ -142,7 +142,7 @@ _Detailed results and performance metrics are available in the notebook._
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License (add a LICENSE file to the repository to make this explicit).
 
 ## 🤝 Contributing
 
@@ -157,7 +157,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 **Project Maintainer**: Bu Lina  
-**Repository**: [sentiment-analysis-hatred-speech](https://github.com/maybeitsai/sentiment-analysis-hatred-speech)
+**Repository**: [sentiment-analysis-hatred-speech](https://github.com/harrymardika/sentiment-analysis-hatred-speech)
 
 ---
 
