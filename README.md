@@ -142,7 +142,7 @@ _Detailed results and performance metrics are available in the notebook._
 
 ## 📝 License
 
-This project is licensed under the MIT License (add a LICENSE file to the repository to make this explicit).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
